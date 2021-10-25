@@ -1,0 +1,259 @@
+{
+  "pages": [
+    {
+      "id": 1,
+      "page": "Home",
+      "title": "5 Continent, infinitas possibilidades.",
+      "subtitle": "Chegou a hora de tirar do papel a viagem que você sempre sonhou.",
+      "slideTitle": "Vamos nessa? <br/>Então escolha seu continente"
+    }
+  ],
+  "continents": [
+    {
+      "id": 1,
+      "name": "Europa",
+      "url": "https://images.unsplash.com/photo-1598235642710-14b96bbecb2d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1074&q=80",
+      "description": "O continente mais antigo.",
+      "longDescription": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "countries": 50,
+      "languages": 60,
+      "cities": 27,
+      "listCities": [
+        {
+          "name": "Londres",
+          "country": "Reino Unido",
+          "countryCode": "GB",
+          "url": "https://images.unsplash.com/photo-1581430872221-d1cfed785922?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+        },
+        {
+          "name": "Paris",
+          "country": "França",
+          "countryCode": "FR",
+          "url": "https://images.unsplash.com/photo-1500313830540-7b6650a74fd0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+        },
+        {
+          "name": "Berlin",
+          "country": "Alemanha",
+          "countryCode": "DE",
+          "url": "https://images.unsplash.com/photo-1560930950-5cc20e80e392?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+        },
+        {
+          "name": "Lisboa",
+          "country": "Portugal",
+          "countryCode": "PT",
+          "url": "https://images.unsplash.com/photo-1585334954347-e50fe83cc6ce?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+        },
+        {
+          "name": "Barcelona",
+          "country": "Espanha",
+          "countryCode": "ES",
+          "url": "https://images.unsplash.com/photo-1539037116277-4db20889f2d4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "África",
+      "url": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1471&q=80",
+      "description": "O lar de faraós e camelos.",
+      "longDescription": "É cortado pela Linha do Equador, pelo Meridiano de Greenwich e pelos trópicos de Câncer e Capricórnio. E, dentro de cada uma dessas divisões, há diversas paisagens diferentes, culturas, etnias, costumes únicos de cada tribo existente por lá. Além disso, muitos países tem influência, desde o idioma até os costumes, trazidos pelos países europeus que exploraram a região por muitos anos.",
+      "countries": 54,
+      "languages": 2000,
+      "cities": 22,
+      "listCities": [
+        {
+          "name": "Cidade do Cabo",
+          "country": "África do Sul",
+          "countryCode": "ZA",
+          "url": "https://images.unsplash.com/photo-1437491086128-1aa912fda29c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+        },
+        {
+          "name": "Johanesburgo",
+          "country": "África do Sul",
+          "countryCode": "ZA",
+          "url": "https://images.unsplash.com/photo-1484318571209-661cf29a69c3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+        },
+        {
+          "name": "Lamu",
+          "country": "Quênia",
+          "countryCode": "KE",
+          "url": "https://images.unsplash.com/photo-1489493887464-892be6d1daae?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1467&q=80"
+        },
+        {
+          "name": "Alexandria",
+          "country": "Egito",
+          "countryCode": "EG",
+          "url": "https://images.unsplash.com/photo-1582541711021-65f9b966e277?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+        },
+        {
+          "name": "Luanda",
+          "country": "Angola",
+          "countryCode": "AO",
+          "url": "https://images.unsplash.com/photo-1566394261706-ecb77b491128?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Oceania",
+      "url": "https://images.unsplash.com/photo-1589330273594-fade1ee91647?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80",
+      "description": "O lar dos cangurus.",
+      "longDescription": "Com 14 Estados independentes, milhares de ilhas e uma biodiversidade bem distribuída pelos seus pouco mais de 8 milhões de km². As praias australianas, que vão das calmas águas azul-turquesa às desafiadoras ondas para a prática do surfe.",
+      "countries": 14,
+      "languages": 18,
+      "cities": 11,
+      "listCities": [
+        {
+          "name": "Sydney",
+          "country": "Austrália",
+          "countryCode": "AU",
+          "url": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+        },
+        {
+          "name": "Brisbane",
+          "country": "Austrália",
+          "countryCode": "AU",
+          "url": "https://images.unsplash.com/photo-1566734904496-9309bb1798ae?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1471&q=80"
+        },
+        {
+          "name": "Auckland",
+          "country": "Nova Zelândia",
+          "countryCode": "NZ",
+          "url": "https://images.unsplash.com/photo-1600208669687-f19af3638cb9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+        },
+        {
+          "name": "Port Moresby",
+          "country": "Papua-Nova Guiné",
+          "countryCode": "PG",
+          "url": "https://images.unsplash.com/photo-1564029975906-c1f48ea75d88?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+        },
+        {
+          "name": "Suva",
+          "country": "Fiji",
+          "countryCode": "FJ",
+          "url": "https://images.unsplash.com/photo-1624043072727-67c4bede46e0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Ásia",
+      "url": "https://images.unsplash.com/photo-1492571350019-22de08371fd3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1053&q=80",
+      "description": "O maior continente de todos.",
+      "longDescription": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial.",
+      "countries": 50,
+      "languages": 2301,
+      "cities": 27,
+      "listCities": [
+        {
+          "name": "Hong Kong",
+          "country": "China",
+          "countryCode": "CN",
+          "url": "https://images.unsplash.com/photo-1507941097613-9f2157b69235?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1543&q=80"
+        },
+        {
+          "name": "Tóquio",
+          "country": "Japão",
+          "countryCode": "JP",
+          "url": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1494&q=80"
+        },
+        {
+          "name": "Bangkok",
+          "country": "Tailândia",
+          "countryCode": "TH",
+          "url": "https://images.unsplash.com/photo-1493863154320-7fe91fec2e94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+        },
+        {
+          "name": "Seul",
+          "country": "Coreia do Sul",
+          "countryCode": "KR",
+          "url": "https://images.unsplash.com/photo-1582196638008-f1bfb8af3ee1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+        },
+        {
+          "name": "Pequim",
+          "country": "China",
+          "countryCode": "CN",
+          "url": "https://images.unsplash.com/photo-1537410056906-d336ddf64024?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1471&q=80"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "América do Sul",
+      "url": "https://images.unsplash.com/photo-1597677963518-cc60d5e02c55?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1632&q=80",
+      "description": "O conttinente mais antigo. sd",
+      "longDescription": "Com 14 Estados independentes, milhares de ilhas e uma biodiversidade bem distribuída pelos seus pouco mais de 8 milhões de km². As praias australianas, que vão das calmas águas azul-turquesa às desafiadoras ondas para a prática do surfe.",
+      "countries": 13,
+      "languages": 9,
+      "cities": 36,
+      "listCities": [
+        {
+          "name": "São Paulo",
+          "country": "Brasil",
+          "url": "https://i.pinimg.com/originals/00/dd/86/00dd8619194da72d3971bd0a60a0a08e.jpg",
+          "countryCode": "BR"
+        },
+        {
+          "name": "Buenos Aires",
+          "country": "Argentina",
+          "url": "https://images.unsplash.com/photo-1495317823589-e67efe1524b0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+          "countryCode": "AR"
+        },
+        {
+          "name": "Rio de Janeiro",
+          "country": "Brasil",
+          "url": "https://images.unsplash.com/photo-1515700281303-5a0a73d9c584?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+          "countryCode": "BR"
+        },
+        {
+          "name": "La Paz",
+          "country": "Bolívia",
+          "url": "https://images.unsplash.com/photo-1596118769843-08e9ad381ab0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=753&q=80",
+          "countryCode": "BO"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "América do Norte",
+      "url": "https://images.unsplash.com/photo-1602940659805-770d1b3b9911?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1489&q=80",
+      "description": "Grandes experiências.",
+      "longDescription": "A América do Norte está localizada no extremo norte das Américas e é composta por apenas três países: Estados Unidos, Canadá e México, além de territórios de domínios europeus, como a Groelândia (pertencente ao Reino da Dinamarca, com representação no parlamento) e Bermudas (dependência britânica).",
+      "countries": 3,
+      "languages": 6,
+      "cities": 28,
+      "listCities": [
+        {
+          "name": "Cidade do México",
+          "country": "México",
+          "url": "https://images.unsplash.com/photo-1512813195386-6cf811ad3542?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+          "countryCode": "MX"
+        },
+        {
+          "name": "Nova Iorque",
+          "country": "Estados Unidos",
+          "url": "https://images.unsplash.com/photo-1609194246569-08d61baefd7b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+          "countryCode": "US"
+        },
+        {
+          "name": "Los Angeles",
+          "country": "Estados Unidos",
+          "url": "https://images.unsplash.com/photo-1534190760961-74e8c1c5c3da?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+          "countryCode": "US"
+        },
+        {
+          "name": "Toronto",
+          "country": "Canadá",
+          "url": "https://images.unsplash.com/photo-1601923146328-310db041a805?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+          "countryCode": "CA"
+        },
+        {
+          "name": "Washington, D.C.",
+          "country": "Estados Unidos",
+          "url": "https://images.unsplash.com/photo-1569895651456-710929d12d50?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=755&q=80",
+          "countryCode": "US"
+        }
+      ]
+    }
+  ]
+}
